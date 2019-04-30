@@ -96,7 +96,7 @@ void draw() {
 void draw_wait() {
     fill(0,0,0);
     textSize(32);
-    text("Waiting ECG monitor data...", 10, 35);
+    text("Waiting for the ECG monitor data...", 10, 35);
 }
 
 
